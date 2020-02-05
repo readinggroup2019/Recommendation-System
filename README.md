@@ -6,7 +6,7 @@
 3. 如果读了某篇文章，将标题及链接贴到这个页面上，源文件可以上传至学术讨论会网盘（账号：2209414174 密码：isbdruc2019）。
 4. [《Introduction to Recommender Systems Handbook》](https://link.springer.com/book/10.1007/978-0-387-85820-3)是介绍推荐系统的书，可以简略看前面Basic Techniques，总共6个方向，可以一个或者两个同学负责一个方向，选择了相关方向后可以在题目后面进行注释。
     - Data Mining Methods for Recommender Systems
-    - Content-based Recommender Systems: State of the Art and Trends
+    - Content-based Recommender Systems: State of the Art and Trends (邓淋穗)
     - A Comprehensive Survey of Neighborhood-based Recommendation Methods
     - Advances in Collaborative Filtering
     - Developing Constraint-based Recommenders
